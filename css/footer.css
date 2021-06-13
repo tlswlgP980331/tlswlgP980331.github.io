@@ -1,0 +1,60 @@
+/*21961063_신지혜*/
+.gotopbtn a{
+  position:fixed;
+  width:50px;
+  height:50px;
+  bottom:40px;
+  right:50px;
+  text-decoration:none;
+  background:#e70f47;
+  border-radius:6px;
+  box-shadow:rgba(0, 0, 0, 15);
+}
+.gotopbtn a img {
+  position:absolute;
+  padding:14px;
+  margin-top:2px;
+  margin-left:-1px;
+}
+footer {
+  width:100%;
+  float:right;
+  margin:10px 0 0 0;
+  padding-bottom:20px;
+  background-color:#f1f1f1;
+}
+footer .footer_menu_box {
+  display:inline;
+}
+footer .footer_menu {
+  height:38px;
+  margin-top:15px;
+}
+footer ul {
+  width:990px;
+  margin:auto;
+  padding-top:12px;
+  text-align:center;
+}
+footer li {
+  display:inline;
+  margin:0 57px;
+  font-weight:bold;
+}
+footer p {
+  text-align:center;
+  margin-top:30px;
+  margin-left:40px;
+}
+footer #footer_menu ul li {
+  display:inline;
+  margin:0 57px;
+  font-weight:bold;
+  color:#000;
+}
+footer #footer_menu ul li a {
+  text-decoration:none;
+}
+footer #footer_menu ul li a:hover {
+  color:#e70f47;
+}

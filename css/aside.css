@@ -1,0 +1,16 @@
+/*21961063_신지혜*/
+aside#left {
+  width:215px;
+  float:left;
+  margin-top:200px;
+  position:fixed;
+}
+
+aside#left li {
+  padding:7px 0 7px 30px;
+}
+aside#left #customer {
+  width:213px;
+  height:100px;
+  margin-top:20px;
+}
